@@ -62,23 +62,6 @@ I focus on writing clean code, optimizing website performance, and developing so
   <img src="https://img.shields.io/badge/Responsive%20Development-0EA5E9?style=for-the-badge" />
 </p>
 
----
-
-## 🤝 Let's Connect!
-
-I'm always open to connecting with fellow developers, collaborating on projects, and exploring new opportunities.
-
-<p align="center">
-  <a href="https://meycko-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/meycko-canoy-3915872ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:meyckocanoy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
